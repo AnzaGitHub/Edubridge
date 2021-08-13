@@ -1,1 +1,4 @@
-This is the group project that we have done on Video Game Sales EDA. For this we have used Numpy and Pandas libraries. For visualization we have imported the Matplotlibs and Seaborn libraries
+# Video Games Sales EDA
+#### This is the group project that we have done on Video Game Sales EDA. 
+#### Our aim was to explore the data by all the possible ways and collect all the trends and patterns in the video game sales around the world.
+#### For this we have used visualization which is by far the easiest way to communicate the story to the client.
