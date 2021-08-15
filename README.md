@@ -1,3 +1,16 @@
 # Edubridge
-In Edubridge I am doing "Post Graduate Certification in Data Analytics for Engineers".
+### This folder contains all the projects and assignments I have done as part of the course I am doing in Edubridge India.
+# Contents
+* ### Assignment
+          * ### Fundamental commands of Python
+* ### Project
+         * ### Tableau Dashboard
+         * ### Excel Dashboard
+         * ### Python Core Game Project
+         * ### Exploratory Data Analysis
+         * ### Machine Learning using Linear Regression
+# Tools used
+### Tableau
+### Excel
+### Anaconda
 In this folder I have uploded all the assignments and projects which I have done as part of the course.
