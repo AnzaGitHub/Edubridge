@@ -1,15 +1,16 @@
 # Content
 ### This folder contains all the projects I did as part of a group and all the projects I did individually.
 # Group Projects
-* Games Project
-* Video Game Sales EDA
-* Diesel Price Prediction using Supervised Learning
+* Games Project in Core Python
+* Video Game Sales EDA in Python
+* Diesel Price Prediction using Supervised Learning in Python
+* Suicide Rate Statistical analysis in R
 # Individual Projects
 * Tableau Dasboard
 * Excel Dashboard
-* Students' Performance EDA
+* Students' Performance EDA in Python
 * Covid EDA
-* Covid Recovery using Linear regression
+* Covid Recovery using Linear regression in Python
 * Comcast Telecom Complaint EDA in R
 # Final Project
 * Project Report
