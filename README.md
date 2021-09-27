@@ -7,10 +7,12 @@
     * Tableau Dashboard
     * Excel Dashboard
     * Python Core Game Project
-    * Exploratory Data Analysis
-    * Machine Learning using Linear Regression
+    * Exploratory Data Analysis in Python, R and SAS
+    * Machine Learning in Python and R
 # Tools used
 ### Tableau
 ### Excel
-### Anaconda
+### Python
+### R
+### SAS
 
